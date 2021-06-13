@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for mentorship on good design
 - 💬 Ask me about my projects!
 - 📫 How to reach me: jd.34736.jdlt@gmail.com
-- ⚡ Fun fact: My Myers Briggs type is: INFP
 -->
