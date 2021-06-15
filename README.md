@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👁👄👁 I'm Johanna.</h1>
 
+[![Linkedin: johanna](https://img.shields.io/badge/-leopolicastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johibot/)](https://www.linkedin.com/in/johibot/)
+[![GitHub leopolicastro](https://img.shields.io/github/followers/leopolicastro?label=follow&style=social)](https://github.com/Thaiane)
+
 - 🔭 I’m currently working on a consignment shop website.
 - 🌱 I’m currently learning MongoDB.
 <h3 align="left">Languages and Tools:</h3>
