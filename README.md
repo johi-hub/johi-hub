@@ -1,4 +1,4 @@
-### Hello 👁👄👁 I'm Johanna.
+<h1 align="center">Hello 👁👄👁 I'm Johanna.</h1>
 
 - 🔭 I’m currently working on a consignment shop website.
 - 🌱 I’m currently learning MongoDB.
