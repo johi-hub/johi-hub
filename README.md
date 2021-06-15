@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👁👄👁 I'm Johanna.</h1>
 
 [![Linkedin: johanna](https://img.shields.io/badge/-johannadelatorre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johibot/)](https://www.linkedin.com/in/johibot/)
-[![GitHub leopolicastro](https://img.shields.io/github/followers/leopolicastro?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub johanna](https://img.shields.io/github/followers/johannadelatorre?label=follow&style=social)](https://github.com/johi-hub)
 
 - 🔭 I’m currently working on a consignment shop website.
 - 🌱 I’m currently learning MongoDB.
