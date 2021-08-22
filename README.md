@@ -1,10 +1,8 @@
-<h1 align="center">Hi! ✨ I'm Johanna.</h1>
+<h1 align="center">Welcome! I'm Johanna! </h1>
 
 [![Linkedin: johanna](https://img.shields.io/badge/-johannadelatorre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johibot/)](https://www.linkedin.com/in/johibot/)
 
 - 🔭 I’m currently working on a consignment shop website.
-- 💪 Day 3 of #JavaScript30 !
-- 🌱 I’m currently learning Vue.js
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
