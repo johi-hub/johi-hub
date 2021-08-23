@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! I'm Johanna! </h1>
+<h1 align="center">[under construction]</h1>
 
 [![Linkedin: johanna](https://img.shields.io/badge/-johannadelatorre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johibot/)](https://www.linkedin.com/in/johibot/)
 
