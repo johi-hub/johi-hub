@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **planes ✈️**
 
-- ⚡ Fun fact: **I love cows 🐮 and planes ✈️ , so I'll point them out whenever I see them on a roadtrip**
+- ⚡ Fun fact: **I love cows 🐮 and planes ✈️ , so I'll point them out whenever I see them on a roadtrip.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
