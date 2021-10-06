@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Battlcard Galactica** - a spoiler-safe fanpage that displays Battlestar Galactica character stats.
 
-- 🌱 I’m currently learning **a few things all at once. See - Data visualization, Puppeteer, React TypeScript, React styled-components**
+- 🌱 I’m currently learning **a few things all at once - Data visualization, Puppeteer, React TypeScript, React styled-components**
 
 - 👨‍💻 All of my projects are available at [https://johannasportfolio.netlify.app/](https://johannasportfolio.netlify.app/)
 
