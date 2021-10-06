@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **Battle Card Galactica** - a spoiler-safe Battle Star Galactica fanpage!
+- 🔭 I’m currently working on **Battlcard Galactica** - a spoiler-safe fanpage that displays Battlestar Galactica character stats.
 
-- 🌱 I’m currently learning **Data visualization, Puppeteer, React TypeScript, React styled-components**
+- 🌱 I’m currently learning **a few things all at once. See - Data visualization, Puppeteer, React TypeScript, React styled-components**
 
 - 👨‍💻 All of my projects are available at [https://johannasportfolio.netlify.app/](https://johannasportfolio.netlify.app/)
 
