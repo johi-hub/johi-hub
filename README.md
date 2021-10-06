@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://johannasportfolio.netlify.app/](https://johannasportfolio.netlify.app/)
 
-- 💬 Ask me about **react-particles-js!**
+- 💬 Ask me about **planes ✈️**
 
-- ⚡ Fun fact ** I love cows 🐮  and uh... planes ✈️ **
+- ⚡ Fun fact ** I love cows 🐮 and planes ✈️ so I'll point them out whenever I see one on a roadtrip**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
