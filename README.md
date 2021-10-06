@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **Battle Card Galactica**
+- 🔭 I’m currently working on **Battle Card Galactica** - a spoiler-safe Battle Star Galactica fanpage!
 
 - 🌱 I’m currently learning **Data visualization, Puppeteer, React TypeScript, React styled-components**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react-particles-js!**
 
-- ⚡ Fun fact **I have a strong interest in aviation! I could spend hours reading up on airplane stats and watching ATC and pilot exchanges on YouTube.**
+- ⚡ Fun fact ** I love cows 🐮  and uh... planes ✈️ **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
