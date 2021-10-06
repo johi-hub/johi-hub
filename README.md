@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **Battlcard Galactica** - a spoiler-safe fanpage that displays Battlestar Galactica character stats.
+- 🔭 I’m currently working on **Battlcard Galactica** - a spoiler-safe fanpage that displays Battlestar Galactica character stats
 
-- 🌱 I’m currently learning **a few things all at once - Data visualization, Puppeteer, React TypeScript, React styled-components**
+- 🌱 I’m currently learning **a few things all at once - Data visualization, Puppeteer, React TypeScript, React styled-components, Python basics**
 
 - 👨‍💻 All of my projects are available at [https://johannasportfolio.netlify.app/](https://johannasportfolio.netlify.app/)
 
 - 💬 Ask me about **planes ✈️**
 
-- ⚡ Fun fact: **I love cows 🐮 and planes ✈️ , so I'll point them out whenever I see them on a roadtrip.**
+- ⚡ Fun fact: **I love cows 🐮 and planes ✈️ , so I'll point them out whenever I see them on a roadtrip**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
