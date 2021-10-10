@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Battlcard Galactica** - a spoiler-safe fanpage that displays Battlestar Galactica character stats
 
-- 🌱 I’m currently learning **a few things all at once - Data visualization, Puppeteer, React TypeScript, React styled-components, Python basics**
+- 🌱 I’m currently **attempting to read the full JavaScript Documentation on Mozilla!**
 
 - 👨‍💻 All of my projects are available at [https://johannasportfolio.netlify.app/](https://johannasportfolio.netlify.app/)
 
 - 💬 Ask me about **planes ✈️**
 
-- ⚡ Fun fact: **I love cows 🐮 and planes ✈️ , so I'll point them out whenever I see them on a roadtrip**
+- ⚡ Fun fact: **I illustrate on my free time!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
