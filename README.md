@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **Battlcard Galactica**
+- 🔭 I’m currently working on **Battlecard Galactica**
 
 - 🌱 I’m currently **attempting to read the full JavaScript Documentation on Mozilla!**
 
-- 💬 Ask me about **my current project! ✈️**
+- 💬 Ask me about **my current project!**
 
 - ⚡ Fun fact: **I illustrate on my free time!**
 
