@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Battlecard Galactica**
 
 - 🌱 I’m currently **attempting to read the full JavaScript Documentation on Mozilla!**
-- 🧠 Today I learned **how to enhance my resumé using powerful verbs!**
+- 🧠 Today I learned **augmented assignment operators**
 
 - 💬 Ask me about **my current project!**
 
