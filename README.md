@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Battlecard Galactica**
 
 - 🌱 I’m currently **attempting to read the full JavaScript Documentation on Mozilla!**
-- 🧠 Today I learned **augmented assignment operators!**
+- 🧠 Today I learned **augmented assignment operators! (And that conditionals !== functions!)**
 
 - 💬 Ask me about **my current project!**
 
