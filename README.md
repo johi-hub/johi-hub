@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **a guessing game!**
+- 🔭 I’m currently working on **a guessing game using HTML and Vanilla JavaScript!**
 
 - 🌱 I’m currently **reading 'A First Splash Into JavaScript' from the MDN Web Docs!**
 
