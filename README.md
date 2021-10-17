@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **reading 'A First Splash Into JavaScript' from the MDN Web Docs!**
 
-- 🧠 Today I learned **the difference between an event listener and an event handler! **
+- 🧠 Today I learned **the difference between an event listener and an event handler!**
 
 - 💬 Ask me about **my current project!**
 
