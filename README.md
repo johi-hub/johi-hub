@@ -3,14 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **Battlecard Galactica**
+- 🔭 I’m currently working on **a guessing game!**
 
-- 🌱 I’m currently **attempting to read the full JavaScript Documentation on Mozilla!**
-- 🧠 Today I learned **augmented assignment operators! (And that conditionals !== functions!)**
+- 🌱 I’m currently **reading 'A First Splash Into JavaScript' from the MDN Web Docs!**
+
+- 🧠 Today I learned **the difference between an event listener and an event handler! **
 
 - 💬 Ask me about **my current project!**
 
-- ⚡ Fun fact: **I illustrate on my free time!**
+- ⚡ Fun fact: **"The Indonesian island of Krakatoa erupts in the largest explosion recorded in history, heard 2,200 miles away in Madagascar." (copied from fungenerators.com from one of their fact api's - https://fungenerators.com/api/facts/)*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
