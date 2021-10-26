@@ -1,12 +1,11 @@
-<h1 align="center">Hey, I'm Johanna 👩🏻‍🦱</h1>
-<h3 align="center">Your full-stack developer from the subtropics 🐊</h3>
+<h1 align="center">Hey, I'm Johanna! 👩🏻‍🦱</h1>
+<h3 align="center">Your full-stack developer from the subtropics 🌾🐊</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing old projects!**
 
-- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > What went wrong? Troubleshooting JavaScript
-**
+- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > What went wrong? Troubleshooting JavaScript**
 
 - 🧠 Today I learned **about the textContext property!**
 
