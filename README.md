@@ -3,19 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **a guessing game using HTML and Vanilla JavaScript!**
+- 🔭 I’m currently working on **enhancing old projects!**
 
-- 🌱 I’m currently **reading 'A First Splash Into JavaScript' from the MDN Web Docs!**
+- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > What went wrong? Troubleshooting JavaScript
+**
 
-- 🧠 Today I learned **the difference between an event listener and an event handler!**
+- 🧠 Today I learned **about the textContext property!**
 
 - 💬 Ask me about **my current project!**
 
-- ⚡ Fun fact: **"The Indonesian island of Krakatoa erupts in the largest explosion recorded in history, heard 2,200 miles away in Madagascar." (copied from fungenerators.com from one of their fact api's - https://fungenerators.com/api/facts/)*
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact: **"Hydrofluoric acid won't eat through plastic. It will, however, dissolve metal, rock, glass, ceramic." - https://breakingbad.fandom.com/wiki/Hydrofluoric_acid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
