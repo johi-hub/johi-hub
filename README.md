@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **enhancing old projects!**
 
-- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > What went wrong? Troubleshooting JavaScript**
+- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > Storing the information you need - Variables**
 
-- 🧠 Today I learned **about the textContext property!**
+- 🧠 Today I learned **a little more about what happens when you mix up the assignment operator! Also, using the Math.floor() function by itself, using the Math.random function by itself, and using both at the same time to generate a random number between 1 and 100!**
 
 - 💬 Ask me about **my current project!**
 
