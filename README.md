@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my current project!**
 
-- ⚡ Fun fact: **"Hydrofluoric acid won't eat through plastic. It will, however, dissolve metal, rock, glass, ceramic." - https://breakingbad.fandom.com/wiki/Hydrofluoric_acid**
+- ⚡ Fun fact: **that Planet Earth series has almost no authentic audio. Most of the sounds you hear are audio library effects or tailor-made studio sounds added on the editing table.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
