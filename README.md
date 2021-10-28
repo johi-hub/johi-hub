@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > Storing the information you need - Variables**
 
-- 🧠 Today I learned **a little more about what happens when you mix up the assignment operator! Also, using the Math.floor() function by itself, using the Math.random function by itself, and using both at the same time to generate a random number between 1 and 100!**
+- 🧠 Today I learned **the difference between initializing and declaring a variable!**
 
 - 💬 Ask me about **my current project!**
 
-- ⚡ Fun fact: **that Planet Earth series has almost no authentic audio. Most of the sounds you hear are audio library effects or tailor-made studio sounds added on the editing table.**
+- ⚡ Fun fact: **Did you know a dog should sleep 12 - 14 hours?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
