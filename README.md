@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johi-hub" alt="johi-hub" /></a> </p>
 
-- 🔭 I’m currently working on **enhancing old projects!**
+- 🔭 I’m currently working on **reading through JavaScript First Steps from MDN Web Docs**
 
-- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > Storing the information you need - Variables**
+- 🌱 I’m currently **reading Learn web development > JavaScript — Dynamic client-side scripting > JavaScript First Steps > Basic math in JavaScript - numbers and operators**
 
-- 🧠 Today I learned **the difference between initializing and declaring a variable!**
+- 🧠 Today I learned **some Assignment Operator shortcuts!**
 
 - 💬 Ask me about **my current project!**
 
-- ⚡ Fun fact: **Did you know a dog should sleep 12 - 14 hours?**
+- ⚡ Fun fact: **In 1953, it took 27 hours to create one PEEPS Marshmallow Chick. The same process takes six minutes today.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
